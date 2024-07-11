@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JassielM
-- 👀 I’m interested in tevhnology, science
+- 👀 I’m interested in technology, science
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on programming or anything
-- 📫 How to reach me tell me you want tol talk and ill tell you how.
+- 📫 How to reach me tell me you want to talk and i'll tell you how.
 
 <!---
 JassielM/JassielM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
